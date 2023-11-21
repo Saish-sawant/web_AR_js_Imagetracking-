@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5123714048175534791
+  m_GuidHigh: 279756921588794268
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5752856064138373127
+      m_GuidHigh: 8153190334289858692
+    m_SerializedTextureGuid:
+      m_GuidLow: 5806275866347798046
+      m_GuidHigh: 7097755509370051771
+    m_Size: {x: 0.1, y: 0.21768709}
+    m_SpecifySize: 1
+    m_Name: WhatsApp Image 2023-10-03 at 23.48.49
+    m_Texture: {fileID: 2800000, guid: 31957e1e09235094bbdc92be074b8062, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5035370957253089667
+      m_GuidHigh: 13727392207345594796
+    m_SerializedTextureGuid:
+      m_GuidLow: 15088373280368779544
+      m_GuidHigh: 15158074702136817609
+    m_Size: {x: 0.1, y: 0.21768709}
+    m_SpecifySize: 1
+    m_Name: WhatsApp Image 2023-10-03 at 23.49.04
+    m_Texture: {fileID: 2800000, guid: 8ee06118ab8ed164c937b373a14c5cd2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5755163763456671124
+      m_GuidHigh: 7804217839795723406
+    m_SerializedTextureGuid:
+      m_GuidLow: 5243397965674412141
+      m_GuidHigh: 17844623467773021529
+    m_Size: {x: 0.1, y: 0.21768709}
+    m_SpecifySize: 1
+    m_Name: WhatsApp Image 2023-10-03 at 23.49.05
+    m_Texture: {fileID: 2800000, guid: 4807786d4aab48c459cd35c37fd6a4f7, type: 3}
